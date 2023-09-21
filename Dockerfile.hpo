@@ -1,0 +1,4 @@
+FROM kaenai/optuna-mlflow-hpo-base:latest
+ENV KAEN_HPO_SERVICE_PREFIX=hpo \
+    KAEN_HPO_SERVICE_NAME=DcTaxiHpoService
+COPY hpo.py /workspace/.

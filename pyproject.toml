@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "taxi"
+version = "0.1.0"
+description = ""
+authors = ["GregoryTomy <95327355+GregoryTomy@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+gdown = "^4.7.1"
+pandas = "^2.0.3"
+fsspec = "^2023.6.0"
+s3fs = "^2023.6.0"
+matplotlib = "^3.7.2"
+ipykernel = "^6.25.1"
+torch = "^2.0.1"
+kaen = "^1.0.1.31"
+pytorch-lightning = "^2.0.8"
+black = "^23.7.0"
+optuna = "^3.3.0"
+python-dotenv = "^1.0.0"
+docker = "^6.1.3"
+plotly = "^5.16.1"
+scikit-learn = "^1.3.0"
+nbformat = "^5.9.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

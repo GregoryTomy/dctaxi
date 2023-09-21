@@ -1,0 +1,8 @@
+batch_norm_linear_layers: '1'
+batch_size: 30
+lr: 0.045268062406773966
+max_batches: 35
+num_features: '8'
+num_hidden_neurons: '[7, 11, 11]'
+optimizer: Adam
+seed: 2146955208

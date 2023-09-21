@@ -1,0 +1,4 @@
+FROM kaenai/pytorch-mlflow-aws-base:latest
+COPY * /workspace/
+ENV KAEN_HPO_CLIENT_PREFIX=experiment \
+    KAEN_HPO_CLIENT_NAME=DcTaxiExperiment

@@ -1,0 +1,7 @@
+train_step_step,train_mse_step,train_rmse_step,train_steps_per_sec_step,epoch,step,val_mse_step,val_rmse_step,train_val_rmse_step,val_mse_epoch,val_rmse_epoch,train_val_rmse_epoch,train_step_epoch,train_mse_epoch,train_rmse_epoch,train_steps_per_sec_epoch,test_mse_step,test_rmse_step,test_mse_epoch,test_rmse_epoch
+1.0,11.470601936691004,3.3868277099213366,0.32506438611245303,0,0,,,,,,,,,,,,,,
+,,,,,0,1005.0208317973611,31.702063525855237,35.08889123577657,,,,,,,,,,,
+,,,,0,0,,,,1005.0208317973611,31.702063525855234,35.08889123577657,,,,,,,,
+,,,,0,0,,,,,,,1.0,11.470601936691004,3.3868277099213366,0.32506438611245303,,,,
+,,,,,0,,,,,,,,,,,0.0011476318108099015,0.03387671487629669,,
+,,,,1,1,,,,,,,,,,,,,0.0011476318108099015,0.03387671487629669

@@ -1,4 +1,4 @@
-# DC Taxi Fare Prediction Model
+# DC Taxi Fare Prediction Model [Project README in progress]
 
 ## Overview
 
